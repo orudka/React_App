@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.lead {
+  font-size: 21px;
+}
+
+.main-container{
+  padding-top: 70px;
+}
+
+.left {
+  float: left; 
+  width: 66%;
+  padding-bottom: 0;
+}
+
+.right {
+  float: right; 
+  width: 34%;
+}
